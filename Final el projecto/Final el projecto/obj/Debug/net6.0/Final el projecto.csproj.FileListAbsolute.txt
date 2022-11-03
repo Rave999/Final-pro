@@ -1,0 +1,15 @@
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\Final el projecto.csproj.AssemblyReference.cache
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\Final el projecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\Final el projecto.AssemblyInfoInputs.cache
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\Final el projecto.AssemblyInfo.cs
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\Final el projecto.csproj.CoreCompileInputs.cache
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\bin\Debug\net6.0\Final el projecto.exe
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\bin\Debug\net6.0\Final el projecto.deps.json
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\bin\Debug\net6.0\Final el projecto.runtimeconfig.json
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\bin\Debug\net6.0\Final el projecto.dll
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\bin\Debug\net6.0\Final el projecto.pdb
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\Final el projecto.dll
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\refint\Final el projecto.dll
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\Final el projecto.pdb
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\Final el projecto.genruntimeconfig.cache
+C:\Users\hahmgid\Downloads\Gid-Programming\Introtoprogramminggideon\Final bro\Final el projecto\Final el projecto\obj\Debug\net6.0\ref\Final el projecto.dll
